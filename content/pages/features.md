@@ -25,8 +25,8 @@ sections:
           fringilla, fringilla.
         video_embed_html: >-
           <iframe width="560" height="315"         
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
-                    frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"         
+          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
                     gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
